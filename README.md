@@ -8,3 +8,5 @@ Screenshots-
 ![image](https://github.com/ChirayuXD/Netflix-Landing-Page/assets/117457861/f9b28cfc-7213-46de-8ef1-eb5d5496b748)
 ![image](https://github.com/ChirayuXD/Netflix-Landing-Page/assets/117457861/e77a412b-f2e0-4122-9737-572c8b4c1d8b)
 
+
+Run the site at the link-https://chirayuxd.github.io/Netflix-Landing-Page/
