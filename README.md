@@ -1,6 +1,6 @@
 # Netflix-Landing-Page
 This repository consists of the files which I have made to construct a landing webpage of Netflix as a personal project
-I have used HTML,CSS and Javascript to make the site responsive
+I have used HTML,CSS and Javascript to make the site responsive.
 Run the site at the link-https://chirayuxd.github.io/Netflix-Landing-Page/
 
 Screenshots-
